@@ -1,2 +1,2 @@
 # SimpleBashUtils
-watch develop branch
+see develop branch
